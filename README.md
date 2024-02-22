@@ -1,0 +1,1 @@
+This is an chat box like gpt which give ann informations like google voice chat and this help experssion feeling and anger issue . This was built in HTML and CSS and the api i used was from google random search this was a simple use
